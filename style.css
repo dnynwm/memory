@@ -1,0 +1,10 @@
+h3 {
+    font: 2em sans-serif;
+}
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 450px;
+    gap: 2px;
+}
